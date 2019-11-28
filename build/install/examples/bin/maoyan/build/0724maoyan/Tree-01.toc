@@ -1,0 +1,5 @@
+('g:\\python\\python\\lib\\site-packages\\chardet-3.0.4-py3.7.egg',
+ None,
+ {'*.cp37-win_amd64.pyd', '*.pyd', '*.py', 'EGG-INFO', '*.pyc', '*.pyw'},
+ 'DATA',
+ [])
